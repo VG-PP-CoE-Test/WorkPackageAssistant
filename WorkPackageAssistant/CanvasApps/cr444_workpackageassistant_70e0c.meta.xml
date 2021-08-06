@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cr444_workpackageassistant_70e0c</Name>
+  <AppVersion>2021-08-06T12:35:02Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.19115.0.0</CreatedByClientVersion>
+  <MinClientVersion>3.19115.0.0</MinClientVersion>
+  <Tags>{"minimumRequiredApiVersion":"2.2.0","primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"20191217T081459Z-3.19115.0.0","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.19115.0","hasComponent":"false","hasUnlockedComponent":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>WorkPackage Assistant</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[{"resourceId":"powerbi"}]</AuthorizationReferences>
+  <ConnectionReferences>{"a47eab22-2d41-4dbb-88c0-1567aff6f683":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1487/1.0.1487.2472/sharepointonline/icon.png","dataSources":["WP_Applications","WP_Projects","WorkPackageAssistant","WP Factories","WP Country and City of Operations","WP Suppliers","Managers_Lookup","Managers","WP_OT_RT","OrgUnits","TD_BA_GF Affected"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://volvogroup.sharepoint.com/sites/unit-tj-hr-demo":{"dataSources":{"WP_Applications":{"tableName":"0e751bb0-7f85-4c93-852f-66bc81522f54"},"WP_Projects":{"tableName":"74338ede-b4f4-42e7-bb79-5e4f63a94150"},"WorkPackageAssistant":{"tableName":"0e88cda0-21d5-4b78-9fd5-1803c3995054"},"WP_OT_RT":{"tableName":"23c52708-bb21-4f5f-9095-17705dc5f089"}}},"https://volvogroup.sharepoint.com/sites/coll-r4d":{"dataSources":{"WP Factories":{"tableName":"f6c6e99a-b9d7-4627-aa29-bdc45a510b02"},"WP Country and City of Operations":{"tableName":"0af52b2c-e6f6-4057-a9d0-38e2da6a2de3"},"WP Suppliers":{"tableName":"e5277174-7fec-42b2-9d54-2c55b0ba039e"},"Managers_Lookup":{"tableName":"b25604cd-c70d-4ff1-9cd9-bb2c9c2d3efe"},"TD_BA_GF Affected":{"tableName":"a47036bd-d6cb-4f26-918d-e7231fc1b6a0"}}},"https://volvogroup.sharepoint.com/sites/coll-request-office":{"dataSources":{"Managers":{"tableName":"394f81c1-1b72-499e-b5f8-cf2d73662972"}}},"https://volvogroup.sharepoint.com/sites/r4d":{"dataSources":{"OrgUnits":{"tableName":"e8546e56-9b44-4bef-9358-95c344ee188b"}}}},"apiTier":"Standard"},"8de23fa8-050a-4666-a73c-4ea7261321e3":{"id":"/providers/microsoft.powerapps/apis/shared_office365users","displayName":"Office 365 Users","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1472/1.0.1472.2427/office365users/icon.png","dataSources":["Office365Users"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/cr444_workpackageassistant_70e0c_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cr444_workpackageassistant_70e0c_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
